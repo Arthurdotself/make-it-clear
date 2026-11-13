@@ -2,7 +2,7 @@
 
 A tiny macOS menu bar app that turns messy English into clear, correct English.
 
-Paste your text, press **Make it clear**, and it fixes spelling, grammar, and unclear sentences — while keeping your meaning and your voice.
+Paste your text, press **Enter**, and it fixes spelling, grammar, and unclear sentences — while keeping your meaning and your voice.
 
 > **Before:** i want to tell you that the meeting yesterday it was not good becuase nobody dont listen to my idea and i think we loose time.
 >
@@ -11,7 +11,7 @@ Paste your text, press **Make it clear**, and it fixes spelling, grammar, and un
 ## Features
 
 - **Lives in the menu bar** — no windows, no Dock icon.
-- **Rewrites in place** — your text is replaced with the clear version. Undo brings the original back.
+- **One key** — press Enter: the text is fixed in place and copied to your clipboard, ready to paste.
 - **Free and private** — uses Apple's on-device AI. No account, no API key, works offline, and your text never leaves your Mac.
 
 ## Requirements
@@ -34,8 +34,8 @@ Then drag `build/Make It Clear.app` into your Applications folder and open it.
 
 1. Click the icon in the menu bar.
 2. Paste your text.
-3. Press **Make it clear** (⌘↩).
-4. Press **Copy**.
+3. Press **Enter** (or click **Make it clear & copy**). Use Shift+Enter for a new line.
+4. Paste the clear text wherever you need it.
 
 ## Development
 
