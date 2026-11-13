@@ -23,7 +23,7 @@ Paste your text, press **Make it clear**, and it fixes spelling, grammar, and un
 ## Install
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/Arthurdotself/make-it-clear.git
 cd make-it-clear
 ./scripts/build-app.sh
 ```
